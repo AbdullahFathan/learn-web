@@ -79,7 +79,7 @@
 .upload-icon-container .tooltip,
 .youtube-apps-container .tooltip,
 .notifications-icon-container .tooltip{
-    font-family: Roboto, Arial;
+   
     position: absolute;
     background-color: grey;
     color:  white;
@@ -133,7 +133,7 @@
 }
 
 .search-bar::placeholder{
-    font-family: Roboto, Arial;
+    
     font-size: 16px;
 }
 
